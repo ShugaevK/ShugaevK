@@ -57,11 +57,7 @@
 
 ## 📚 Проекты на GitHub
 
-### 🔹 [Аналитика Маркетинга: Анализ Удержания Когорт и KPI](https://github.com/ShugaevK/python-marketing-analytics)
-Комплексный анализ ключевых показателей маркетинга с использованием Python
-- Cohort Retention Analysis (Python)
-- Marketing KPI Analysis
-- Профессиональное оформление для работодателя
+### 🔹 [Анализ влияния праздников на выручку магазинов](https://github.com/ShugaevK/SQL-Case1)
 
 ## 🎓 Образование
 
