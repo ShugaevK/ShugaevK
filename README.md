@@ -87,8 +87,6 @@
 
 🐙 **GitHub**: [github.com/ShugaevK](https://github.com/ShugaevK)
 
-💼 **HH.ru**: [hh.ru/resume/809f773bff0fc141fa0039ed1f6c476c307048](https://hh.ru/resume/809f773bff0fc141fa0039ed1f6c476c307048)
-
 ---
 
 ### Спасибо, что посетили мой профиль! 👋
